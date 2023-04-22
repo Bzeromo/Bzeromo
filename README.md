@@ -5,7 +5,7 @@
 ## 😃 Welcome!! 😃
   
 #### I'm Park Young-gyu, a baby developer. 👶
-#### Thank you for coming! 🙌
+#### Thank you for coming 🙌
 
 ## 🌟 I can use with confidence. 🌟
   
