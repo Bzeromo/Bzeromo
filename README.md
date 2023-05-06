@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bzeromo&fontSize=90&animation=scaleIn&fontAlign=70)
   
-## 😃 Welcome!! 😃
+## 😃 Welcome!😃
   
 #### I'm Park Young-gyu, a baby developer. 👶
 #### Thank you for coming! 🙌
