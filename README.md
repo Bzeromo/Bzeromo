@@ -28,7 +28,7 @@
   ...
   <br/>
   <br/>
-[![Bzeromo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudrb5260@naver.com)](https://github.com/dudrb5260@naver.com/github-readme-stats)
+[![Bzeromo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzeromo)](https://github.com/Bzeromo/github-readme-stats)
   
   
 ## Come here!! 😉
