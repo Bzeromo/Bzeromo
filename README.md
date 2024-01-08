@@ -28,6 +28,9 @@
   ...
   <br/>
   <br/>
+[![Bzeromo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzeromo&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical)](https://github.com/Bzeromo/github-readme-stats)
+
+
   
   
 ## Come here!! 😉
