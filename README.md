@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bzeromo&fontSize=90&animation=scaleIn&fontAlign=70)
   
-## 😃 Welcome!😃
+## 😃 Welcome! 😃
 
 ### 뒤에서 묵묵히 일하다가도 선봉에서 소통하는 개발자, 박영규입니다. 🙋‍♂️
 
