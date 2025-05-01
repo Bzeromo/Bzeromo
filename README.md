@@ -18,7 +18,7 @@
 </br>
 </br>
 
-## 🌟 자신있게 사용할 수 있어요! 🌟
+## 🌟 주요 기술 스택 🌟
   
 ![](https://img.shields.io/badge/JAVA-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) ![](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white) ![](https://img.shields.io/badge/MyBatis-050505?style=flat-square&logo=fluentbit&logoColor=white) </br>
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) </br>
@@ -30,7 +30,7 @@
 
 </br>
 
-## ⭐ 프로젝트에 사용해보고, 어느 정도 공부해봤어요! ⭐
+## ⭐ 프로젝트에 사용해보고, 어느 정도 공부 경험 존재 ⭐
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white) </br>
 ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white ) ![](https://img.shields.io/badge/Sonatype%20Nexus%20Repository-1B1C30?style=flat-square&logo=Sonatype&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white)  </br>
@@ -38,7 +38,7 @@
 
 </br>
 
-## ✨ 한 두번 써봤거나 개념만 알아요! ✨
+## ✨ 한 두번 써봤거나 개념만 아는 정도 ✨
 
 ![](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white) ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) </br> ![](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white) ![](https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white) ![](https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2database&logoColor=white)
    
