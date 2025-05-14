@@ -30,7 +30,7 @@
 
 </br>
 
-## ⭐ 프로젝트에 사용해보고, 어느 정도 공부 경험 존재 ⭐
+## ⭐ 프로젝트에 적용 및 학습 경험 존재 ⭐
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white) </br>
 ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white ) ![](https://img.shields.io/badge/Sonatype%20Nexus%20Repository-1B1C30?style=flat-square&logo=Sonatype&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white)  </br>
@@ -38,7 +38,7 @@
 
 </br>
 
-## ✨ 한 두번 써봤거나 개념만 아는 정도 ✨
+## ✨ 한 두번 사용 경험 보유, 개념 이해 ✨
 
 ![](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white) ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) </br> ![](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white) ![](https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white) ![](https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2database&logoColor=white)
    
