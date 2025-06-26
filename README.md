@@ -12,8 +12,20 @@
 #### [2024.07~2025.01] 프리랜서 백엔드 개발자 (오케이홈 BeddingHome 웹/앱 쇼핑몰 및 관리자 페이지 백엔드 개발자)
 #### [2025.04~] **ITCEN Entec** 공채 13기 DS 부문 DC-Center Entec담당 선임
 
-
 </br>
+</br>
+</br>
+
+## ⚡ Stats ⚡
+
+![Bzeromo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzeromo&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
+</br>
+</br>
+</br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg5260)](https://solved.ac/yg5260)
+
+
 </br>
 </br>
 </br>
@@ -42,7 +54,6 @@
 
 ![](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white) ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) </br> ![](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white) ![](https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white) ![](https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2database&logoColor=white)
    
-  <br/>
   <br/>
   <br/>
   <br/>
