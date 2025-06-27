@@ -1,21 +1,46 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bzeromo&fontSize=90&animation=scaleIn&fontAlign=70)
+
+***
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+there!;Welcome+to+Bzeromo's+profile!;Take+a+look+around+my+work!;Thank+you+%3A\))](https://git.io/typing-svg)
+
+***
+
+### 👨‍💻 언제나 최선을 제시하는 개발자, <strong>박영규</strong>입니다!
+
+</div>
+
+</br>
+<details>
+<summary>🎓 학력 및 교육 이력</summary>
+</br>
   
-## 😃 Welcome! 😃
+- **[2021.08 ~ 2023.08]** 충남대학교 언어정보처리 복수전공 졸업</br>
+- **[2023.01 ~ 2023.05]** CNU SW ACADEMY Frontend(React) 과정 수료</br>
+- **[2023.07 ~ 2024.06]** Samsung Software Academy For Youth 10th</br>
+  - 📍 1학기: 풀스택 JAVA 비전공 과정</br>
+  - 📍 2학기: 프로젝트 과정 수료</br>
 
-### 언제나 최선을 제시하는 개발자, **박영규**입니다! 🙋‍♂️
+</details>
+<details>
+<summary>💼 경력</summary>
+</br>
+  
+  **[2024.07 ~ 2025.01]** 프리랜서 백엔드 개발자</br>
+- ⚙ 오케이홈 BeddingHome 웹/앱 쇼핑몰 및 관리자 페이지 백엔드 개발</br>
 
-#### [2021.08~2023.08] 충남대학교 언어정보처리 복수전공 졸업
-#### [2023.01~2023.05] **CNU SW ACADEMY** Frontend(React) 과정 수료
-#### [2023.07~2024.06] **Samsung Software Academy For Youth 10th** 1학기 풀스택 JAVA 비전공 과정 및 2학기 프로젝트 과정 수료
-#### [2024.07~2025.01] 프리랜서 백엔드 개발자 (오케이홈 BeddingHome 웹/앱 쇼핑몰 및 관리자 페이지 백엔드 개발자)
-#### [2025.04~] **ITCEN Entec** 공채 13기 DS 부문 DC-Center Entec담당 선임
+**[2025.04 ~ 현재]** ITCEN Entec 공채 13기</br>
+- ⚙ DS 부문 DC-Center Entec담당 선임</br>
+
+</details>
 
 </br>
 </br>
-</br>
 
+<div align="center">
+  
 ## ⚡ Stats ⚡
 
 ![Bzeromo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzeromo&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
