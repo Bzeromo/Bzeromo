@@ -20,7 +20,7 @@
 - **[2021.08 ~ 2023.08]** 충남대학교 언어정보처리 복수전공 졸업</br>
 - **[2023.01 ~ 2023.05]** CNU SW ACADEMY Frontend(React) 과정 수료</br>
 - **[2023.07 ~ 2024.06]** Samsung Software Academy For Youth 10th</br>
-  - 📍 1학기: 풀스택 JAVA 비전공 과정</br>
+  - 📍 1학기: 풀스택 Java 및 알고리즘 과정</br>
   - 📍 2학기: 프로젝트 과정 수료</br>
 
 </details>
