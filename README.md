@@ -33,7 +33,7 @@
 
 **[2025.04 ~ 현재]** ITCEN Entec 공채 13기</br>
 - ⚙ DS 부문 DC-Center Entec담당 선임</br>
-- 국세청 NTS 유지보수 프로젝트 표준화팀</br>
+- 국세청 엔티스 프로젝트 표준화팀</br>
 
 </details>
 
