@@ -4,7 +4,7 @@
 
 ***
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+there!;Welcome+to+Bzeromo's+profile!;Thank+you+%3A\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+there!;Welcome+to+Bzeromo's+Github!;Thank+you+%3A\))](https://git.io/typing-svg)
 
 ***
 
