@@ -90,7 +90,7 @@
   
   
   
-## Come here!! 😉
+## Come here! 😉
 
 ![](https://img.shields.io/badge/Bzeromo's%20Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@bzeromo ) ![](https://img.shields.io/badge/Bzeromo's%20Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/b_zero_mo/)
 
