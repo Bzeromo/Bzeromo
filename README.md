@@ -34,7 +34,9 @@
 **[2025.04 ~ 현재]** ITCEN Entec 공채 13기</br>
 - ⚙ DS 부문 DC-Center Entec담당 선임</br>
 - 국세청 엔티스 프로젝트 표준화팀</br>
-  - SRM 시스템 개발 Project 참여중</br>
+  - SRM 시스템 개발 Project 참여</br>
+  - 홈택스 유지보수 및 온라인 담당</br>
+  - 손택스(예정)</br>
 
 </details>
 
