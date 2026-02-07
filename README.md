@@ -46,9 +46,7 @@
   
 ## ⚡ Stats ⚡
 
-![Bzeromo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzeromo&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
-</br>
-</br>
+
 </br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg5260)](https://solved.ac/yg5260)
