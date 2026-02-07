@@ -35,7 +35,7 @@
 - ⚙ DS 부문 DC-Center Entec담당 선임</br>
 - 국세청 엔티스 프로젝트 표준화팀</br>
   - SRM 시스템 개발 Project 참여</br>
-  - 홈택스 유지보수 및 온라인 담당</br>
+  - 홈택스 프레임워크 유지보수 및 온라인 담당</br>
 
 </details>
 
@@ -43,18 +43,6 @@
 </br>
 
 <div align="center">
-  
-## ⚡ Stats ⚡
-
-
-</br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg5260)](https://solved.ac/yg5260)
-
-
-</br>
-</br>
-</br>
 
 ## 🌟 주요 기술 스택 🌟
   
